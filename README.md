@@ -17,5 +17,7 @@
 
 [Урок 9](https://yesnookbye.github.io/lesson_9/ "Домашка 9") - Верстка 7 урока с использыванием bootstrap 
 
+[Урок 10](https://github.com/YesNoOkBye/YesNoOkBye.gitHub.io/tree/master/lesson_10/ "Домашка 10") - Home Work .sass
+
 [Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
 
