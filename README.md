@@ -9,7 +9,7 @@
 
 [Урок 6](https://yesnookbye.github.io/lesson_6/ "Домашка 6") - Плавающая шапка
 
-[Урок 6.1](https://yesnookbye.github.io/lesson_6.1/ "Домашка 6") - Плавающая шапка
+[Урок 6.1](https://yesnookbye.github.io/lesson_6.1/ "Домашка 6.1") - Внутренние отступы
 
 [Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
 
