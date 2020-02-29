@@ -11,5 +11,7 @@
 
 [Урок 6.1](https://yesnookbye.github.io/lesson_6.1/ "Домашка 6.1") - Внутренние отступы
 
+[Урок 7](https://yesnookbye.github.io/lesson_7/ "Домашка 7") - Первая вёрстка макета
+
 [Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
 
