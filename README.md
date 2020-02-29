@@ -19,5 +19,5 @@
 
 [Урок 10](https://github.com/YesNoOkBye/YesNoOkBye.gitHub.io/tree/master/lesson_10/ "Домашка 10") - Home Work .sass
 
-[Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
+[Урок 12](YesNoOkBye.gitHub.io "Домашка 12") - рбота с репозиторием на GitHub
 
