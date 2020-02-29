@@ -3,9 +3,11 @@
 # Василий Болдурян
 Мои домашние задания. 
 
-[Урок 4](YesNoOkBye.gitHub.io/lession_4/ "Домашка 4") - Миникнига 
+[Урок 4](https://yesnookbye.github.io/lesson_4/ "Домашка 4") - Миникнига 
 
-[Урок 5](YesNoOkBye.gitHub.io/lession_5/ "Домашка 5") - Миникнига с CSS
+[Урок 5](https://yesnookbye.github.io/lesson_5/ "Домашка 5") - Миникнига с CSS
+
+[Урок 6](https://yesnookbye.github.io/lesson_6/ "Домашка 6") - Плавающая шапка
 
 [Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
 
