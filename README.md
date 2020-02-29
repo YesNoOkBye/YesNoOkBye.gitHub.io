@@ -13,5 +13,7 @@
 
 [Урок 7](https://yesnookbye.github.io/lesson_7/ "Домашка 7") - Первая вёрстка макета
 
+[Урок 8](https://yesnookbye.github.io/lesson_8/ "Домашка 8") - Верстка с использыванием bootstrap 
+
 [Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
 
