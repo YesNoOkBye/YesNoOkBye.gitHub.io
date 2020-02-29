@@ -3,4 +3,4 @@
 # Василий Болдурян
 Мои домашние задания. 
 
-[Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12")
+[Урок 12](YesNoOkBye.gitHub.io/lession_12/ "Домашка 12") - рбота с репозиторием на GitHub
