@@ -1,58 +1,12 @@
-.header {
-	padding-top: 20px;
-	font-size: 20px;
-	line-height: 1.5;
-	margin: 60px auto;
+a:hover:active {
+  text-decoration: none;
 }
 
-strong {
-	font-weight: 900;
+button:focus, input:focus, a:focus, textarea:focus {
+  outline: none;
 }
 
-.header span {
-	display: block;
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
 }
-
-.section {
-	padding: 30px 0;
-}
-.form {
-	border: 5px solid #2727d9;
-	padding: 30px 20px;
-}
-
-.form input {
-	margin-bottom: 12px;
-}
-.form-header, .feauture-header, .clients {
-	font-size: 20px;
-	font-weight: 900;
-	margin-bottom: 20px;
-}
-
-.form-btn {
-margin: 10px auto;
-background-color: #2727d9;
-}
-
-.feature {
-	margin: 60px auto;
-}
-
-
-.feature p {
-padding-top: 20px;
-}
-
-.clients {
-font-size: 20px;
-font-weight: 900;
-}
-
-.clients img {
-	margin-top: 40px;
-}
-
-.video {
-	margin-bottom: 20px;
-}
+/*# sourceMappingURL=style.css.map */

@@ -40,6 +40,6 @@ main {
 
 .wrap-block {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: top;
 }
 /*# sourceMappingURL=style.css.map */

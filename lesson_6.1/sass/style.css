@@ -1,17 +1,12 @@
-.box {
-	background-color: white;
-	border: solid 2px;
-	width: 300px;
-	height: 400px;
-	position: absolute; 
-	top: 50%;
-	left: 50%;
-	margin-left: -150px;
-	margin-top: -200px; 
+a:hover:active {
+  text-decoration: none;
 }
 
-.mini-box {
-	display: inline-block;
-	padding: 20px 30px 20px 30px;
+button:focus, input:focus, a:focus, textarea:focus {
+  outline: none;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+/*# sourceMappingURL=style.css.map */

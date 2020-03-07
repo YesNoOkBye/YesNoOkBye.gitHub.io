@@ -1,29 +1,12 @@
-h1 {
-	text-align: center;
+a:hover:active {
+  text-decoration: none;
 }
 
-h2 {
-	text-align: center;
-}
- 
- #predislovie {
-text-align: left;
- }
-
-h3 {
-	text-align: center;
+button:focus, input:focus, a:focus, textarea:focus {
+  outline: none;
 }
 
-/* Glava 1  */
-
-img {
-   width: 500px;
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
 }
-
-div {
-	text-align: center;
-}
-
-p {
-	text-align: left;
-}
+/*# sourceMappingURL=style.css.map */
