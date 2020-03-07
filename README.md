@@ -24,3 +24,5 @@
 [Урок 13](https://yesnookbye.github.io/lesson_13/ "Домашка 13") - верстка Pixel Perfect
 
 [Урок 14](https://yesnookbye.github.io/lesson_14/ "Домашка 14") - Верстка шапки. Практика. Часть 1.
+
+[Урок 14.1](https://yesnookbye.github.io/lesson_14.1/fonts-viewer/ "Домашка 14.1") - Подключение шрифтов.
