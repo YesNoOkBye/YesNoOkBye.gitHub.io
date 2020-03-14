@@ -1,0 +1,148 @@
+// Colors 
+$btn-color: #fcb303
+$icon-color: #46b814
+$text: #1a1820
+$danger: #ff0000
+$bg-light: #f5f5f5
+$light: #fff
+$border-input: #dddddd
+
+//Mixins
+@mixin novaReg
+   font-family: ProximaNova_reg, sans-serif 
+@mixin novaBold()
+   font-family: ProximaNova_bold, sans-serif
+     
+// basic settings
+html 
+   font-size: 10px
+body
+   @include novaReg
+   
+   
+//Typography 
+
+section 
+   padding: 10rem 0
+
+//первый экран 
+.header
+   height: 7rem
+
+.main 
+   padding: 3rem 0 5rem
+   background: #fff url("../img/main-bg.png") center center no-repeat
+   background-size: cover
+   &-content
+      margin-top: 10rem
+      //глвный заголовок--------------------------->
+      h1    
+         margin-bottom: 4rem
+         text-transform: uppercase
+         font-size: 4rem
+         @include novaBold()
+         line-height: 1.45
+   //подзаголовок--------------------------->
+   &-subtitle
+      margin-bottom: 4rem
+      text-transform: uppercase
+      font-size: 2.4rem
+   //под-под-заголовок--------------------------->
+   span 
+      display: inline-block
+      background-color: $icon-color
+      padding: 3rem 5rem
+      font-size: 1.8rem
+      color: $light
+      text-align: center
+      //цифра 300--------------------------->
+      strong
+         font-size: 3rem
+         @include novaBold()
+   //Оплата по факту------------------->
+   &-trigger
+      font-size: 2.2rem
+      text-transform: uppercase
+      display: block
+      margin-top: 3rem
+      @include novaBold()
+      
+   //главная форма--------------------->
+   &-form
+      background-color: $light
+      padding: 4rem 4.6rem
+      text-align: center
+      //заголовок формы
+      &-header
+         font-size: 1.8rem
+         strong
+            font-size: 1.9rem
+      //поле для ввода
+      &-input
+         display: block
+         margin: 2rem 0
+         width: 100%
+         padding: 1.7rem
+         border-color: 1px solid $border-input
+      //подписи к полям
+      label 
+         position: absolute
+         background-color: $light
+         padding: 0.5rem
+         left: 50%
+         transform: translateX(-50%) translateY(-50%)
+         font-size: 1.3rem
+      //кнопка отправить заявку
+      &-btn 
+         display: block
+         width: 100%
+         height: 6.3rem
+         font-size: 1.6rem
+         background-color: $btn-color
+         color: $light
+         padding: 1rem 2rem
+         border-radius: 8px
+         border: none
+         text-transform: uppercase
+   //подпись под кнопкой 
+   small
+      display: block
+      margin-top: 1.5rem
+      font-size: 1.3rem
+
+         
+
+      
+
+.button
+   background-color: $btn-color
+   color: $light
+   padding: 1rem 2rem
+   border-radius: 8px
+   border: none
+   text-transform: uppercase
+   font-size: 1.2rem
+   @include novaReg
+   height: 50px
+   
+.phone
+   &-block
+      text-align: right
+   &-link
+      display: inline-block
+      @include novaBold()
+      font-size: 2rem
+      font-weight: 900
+      height: 7rem
+      line-height: 7rem
+      color: $text
+
+.wrap
+   display: table
+   width: 100%
+   height: 7rem
+   &-block
+      display: table-cell
+      vertical-align: middle
+      text-align: right
+
