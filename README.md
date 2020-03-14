@@ -28,3 +28,5 @@
 [Урок 14.1](https://yesnookbye.github.io/lesson_14.1/fonts-viewer/ "Домашка 14.1") - Подключение шрифтов.
 
 [Урок 14.2](https://yesnookbye.github.io/lesson_14.2/ "Домашка 14.2") - Верстка первой части макета.
+
+[Урок 15](https://yesnookbye.github.io/lesson_15/ "Домашка 15") -   ДЗ эффекты при наведении. Классы и псевдоклассы.
