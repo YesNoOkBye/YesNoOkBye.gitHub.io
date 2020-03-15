@@ -193,11 +193,8 @@ section {
   margin-top: 3rem;
 }
 
-.features-img {
-  height: 100%;
-}
-
 .features-img img {
+  height: 8rem;
   display: block;
   margin: 0 auto 3rem;
 }
