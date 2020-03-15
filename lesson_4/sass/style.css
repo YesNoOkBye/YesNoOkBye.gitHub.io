@@ -1,16 +1,31 @@
-a:hover:active {
-  text-decoration: none;
+h1 {
+	text-align: center;
 }
 
-button:focus, input:focus, a:focus, textarea:focus {
-  outline: none;
+h2 {
+	text-align: center;
+}
+ 
+ #predislovie {
+text-align: left;
+ }
+
+h3 {
+	text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6, p {
-  margin: 0;
+/* Glava 1  */
+
+#imagine1, #imagine2, #imagine3, #imagine4, #imagine5, 
+#imagine6, #imagine7, #imagine8, #imagine9, #imagine10, #imagine11,
+#imagine12 {
+	width: 300px;
 }
 
-img {
-  width: 300px;
+div {
+	text-align: center;
 }
-/*# sourceMappingURL=style.css.map */
+
+p {
+	text-align: left;
+}
