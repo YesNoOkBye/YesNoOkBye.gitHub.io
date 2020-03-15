@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 img {
   width: 400px;
 }
@@ -8,8 +9,21 @@ img {
   padding-bottom: 5rem;
   font-weight: 600;
   font-family: Times New Roman, serif;
+=======
+h1 {
+	text-align: center;
 }
 
+h2 {
+	text-align: center;
+>>>>>>> d26cc24947bfc405082fe08ddcaab9c3c4bf339b
+}
+ 
+ #predislovie {
+text-align: left;
+ }
+
+<<<<<<< HEAD
 .small-heading {
   text-align: center;
   font-size: 2rem;
@@ -27,5 +41,24 @@ img {
 
 h3 {
   text-align: center;
+=======
+h3 {
+	text-align: center;
 }
-/*# sourceMappingURL=style.css.map */
+
+/* Glava 1  */
+
+#imagine1, #imagine2, #imagine3, #imagine4, #imagine5, 
+#imagine6, #imagine7, #imagine8, #imagine9, #imagine10, #imagine11,
+#imagine12 {
+	width: 300px;
+}
+
+div {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+>>>>>>> d26cc24947bfc405082fe08ddcaab9c3c4bf339b
+}
