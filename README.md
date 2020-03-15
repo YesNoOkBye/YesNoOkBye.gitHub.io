@@ -34,3 +34,5 @@
 [Урок 16](https://yesnookbye.github.io/lesson_16/ "Домашка 16") -   Эффекты для кнопок.Адаптивная верстка. 
 
 [Урок 17](https://yesnookbye.github.io/lesson_17/ "Домашка 17") -   Слайдер+адаптивная верстка
+
+[Урок 18](https://yesnookbye.github.io/lesson_18/ "Домашка 18") -   Верстка второго экрана / слайдера slick
