@@ -1,12 +1,14 @@
-a:hover:active {
-  text-decoration: none;
+h1 {
+  display: block;
+  padding: 50px;
+  text-transform: uppercase;
+  font-size: 2rem;
+  text-align: center;
 }
 
-button:focus, input:focus, a:focus, textarea:focus {
-  outline: none;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-  margin: 0;
+.box {
+  display: inline-block;
+  padding-top: 50px;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
