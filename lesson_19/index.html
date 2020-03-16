@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+    <title>Document title</title>
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- own styles/fonts -->
+    <link href="sass/style.css" rel="stylesheet">
+    <link href="fonts/fonts.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <!-- Кнопки -->
+    <div class="container">
+      <button class="btn btn-warning delete-file" data-toggle="modal" data-target="#my-modal">Delete file</button>
+    </div>
+  
+    <!-- Модельное окно Bootstrap -->
+    <div class="modal fade" id="my-modal">
+      <!-- Само белое модальное окно -->
+      <div class="modal-dialog">
+        <!-- Содержимое модального окна -->
+        <div class="modal-content">
+          <!-- Шапка модального окна -->
+          <div class="modal-header">
+            <!-- Заголовок модельного окна -->
+            <h5 class="modal-title">Delete file</h5>
+            <!-- Кнопка закрыть -->
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Do you really want to delete this file?</p>
+          </div>
+          <!-- Подвал модального окна -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+            <button type="button" class="btn btn-danger">Yes, delete file</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- jQuary CDN -->
+    <script   src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
+    <!-- Bootstrap.js -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    
+    <!-- Другие библиотеки JS -->
+    
+  </body>
+</html>
