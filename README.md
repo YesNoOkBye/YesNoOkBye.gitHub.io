@@ -38,3 +38,5 @@
 [Урок 18](https://yesnookbye.github.io/lesson_18/ "Домашка 18") -   Верстка второго экрана / слайдера slick
 
 [Урок 19](https://yesnookbye.github.io/lesson_19/ "Домашка 19") -   Всплывающее окно
+
+[Урок 20](https://yesnookbye.github.io/lesson_20/ "Домашка 20") -   Добавление всплывающего окна в основной макет
