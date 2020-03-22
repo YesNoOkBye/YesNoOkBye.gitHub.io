@@ -40,3 +40,5 @@
 [Урок 19](https://yesnookbye.github.io/lesson_19/ "Домашка 19") -   Всплывающее окно
 
 [Урок 20](https://yesnookbye.github.io/lesson_20/ "Домашка 20") -   Добавление всплывающего окна в основной макет
+
+[Урок 21](https://yesnookbye.github.io/lesson_21/ "Домашка 21") -   ДЗ по табам и аккордеонам
