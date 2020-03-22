@@ -1,13 +1,6 @@
 form {
   border: 1px solid #dee2e6;
-  padding: 1rem;
-  border-top: none;
   padding-top: 3rem;
-  width: 25rem;
-  height: 23rem;
-}
-
-.login {
   width: 25rem;
 }
 
@@ -52,10 +45,6 @@ form {
 .accordeon {
   border-radius: 3px;
   position: fixed;
-}
-
-.row {
-  width: 100%;
 }
 
 .card {
