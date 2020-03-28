@@ -11,7 +11,7 @@ a:hover {
 button:focus, input:focus, a:focus, textarea:focus {
   outline: none; }
 
-button:hoover {
+button:hover {
   cursor: pointer;
   background-color: #e3a103; }
 
@@ -183,6 +183,53 @@ section {
   background: url("../img/right-arrow.svg") center no-repeat;
   right: 0;
   background-size: 70%; }
+
+.feedback {
+  background: url("../img/feedback/feedback-bg.jpg") no-repeat center;
+  background-size: cover; }
+  .feedback-prev-btn {
+    left: -4rem; }
+  .feedback-next-btn {
+    right: -4rem; }
+  .feedback-text {
+    position: relative;
+    margin-top: 2rem;
+    font-style: italic;
+    padding: 1rem;
+    border: 2px solid #46b814; }
+    .feedback-text::before {
+      content: "";
+      position: absolute;
+      display: block;
+      top: -2rem;
+      left: 4rem;
+      width: 2rem;
+      height: 2rem;
+      background-color: #fff;
+      border: 2px solid #46b814;
+      border-bottom: none;
+      border-top-right-radius: 100px; }
+  .feedback-slider {
+    padding: 5rem 6rem;
+    box-shadow: 0px 12px 18px 0 rgba(0, 0, 0, 0.11);
+    background-color: #fff; }
+    .feedback-slider .media {
+      margin-top: 3rem;
+      font-size: 1.4rem; }
+      .feedback-slider .media h4 {
+        font-family: ProximaNova_bold, sans-serif; }
+    .feedback-slider p {
+      font-size: 1.6rem; }
+    .feedback-slider-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 4rem;
+      height: 5rem;
+      background-color: #46b814;
+      border: none; }
+      .feedback-slider-btn img {
+        width: 50%; }
 
 /*ОФОРМЛЕНИЕ ВСПЛЫВАЮЩИХ ОКОН */
 .popup {

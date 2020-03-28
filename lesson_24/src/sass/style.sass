@@ -28,7 +28,7 @@ button, input, a, textarea,
       outline: none
 
 button
-   &:hoover
+   &:hover
       cursor: pointer
       background-color: darken($btn-color, 5%)
 
@@ -228,6 +228,55 @@ section
    background: url("../img/right-arrow.svg") center no-repeat
    right: 0
    background-size: 70%
+
+
+//секция с отзывами
+.feedback
+   background: url("../img/feedback/feedback-bg.jpg") no-repeat center
+   background-size: cover
+   &-prev-btn
+      left: -4rem
+   &-next-btn
+      right: -4rem
+   &-text
+      position: relative
+      margin-top: 2rem
+      font-style: italic
+      padding: 1rem
+      border: 2px solid $icon-color
+      &::before
+         content: ""
+         position: absolute
+         display: block
+         top: -2rem
+         left: 4rem
+         width: 2rem
+         height: 2rem
+         background-color: $light
+         border: 2px solid $icon-color
+         border-bottom: none
+         border-top-right-radius: 100px
+   &-slider
+      padding: 5rem 6rem
+      box-shadow: 0px 12px 18px 0 rgba(0, 0, 0, 0.11)
+      background-color: $light
+      .media
+         margin-top: 3rem
+         font-size: 1.4rem
+         h4
+            @include novaBold
+      p
+         font-size: 1.6rem
+      &-btn
+         position: absolute
+         top: 50%
+         transform: translateY(-50%)
+         width: 4rem
+         height: 5rem
+         background-color: $icon-color
+         border: none
+         img
+            width: 50%
 
 /*ОФОРМЛЕНИЕ ВСПЛЫВАЮЩИХ ОКОН*/
 .popup
