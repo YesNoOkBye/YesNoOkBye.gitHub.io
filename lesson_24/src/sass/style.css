@@ -103,7 +103,7 @@ section {
   font-family: ProximaNova_reg, sans-serif;
   height: 50px;
   transition: all 0.2s; }
-  .button::hover {
+  .button:hover {
     cursor: pointer;
     background-color: #e3a103; }
 
@@ -161,6 +161,9 @@ section {
   color: green; }
   .small-link:hover {
     color: green; }
+
+.slick-active {
+  outline: none; }
 
 .arrow {
   width: 2rem;
