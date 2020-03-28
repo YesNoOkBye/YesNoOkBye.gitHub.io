@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7430bdd8-b6c5-481c-aeba-7957eb988a94" name="Default Changelist" comment="HW24">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585432082695</updated>
-      <workItem from="1585432084038" duration="669000" />
+      <workItem from="1585432084038" duration="759000" />
     </task>
     <task id="LOCAL-00001" summary="HW24">
       <created>1585432154904</created>
@@ -58,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585432154904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW24">
+      <created>1585432846697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585432846697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,10 +79,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="HW24" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2" timestamp="1585432828021">
+    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2" timestamp="1585432873841">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585432828021" />
+    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585432873841" />
     <state x="421" y="288" width="838" height="475" key="EditFileWatcherDialog" timestamp="1585432669085">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
@@ -125,10 +135,10 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state width="1659" height="-12" key="GridCell.Tab.2.right/0.23.1680.971@0.23.1680.971" timestamp="1585432754306" />
-    <state x="711" y="167" key="Vcs.Push.Dialog.v2" timestamp="1585432835330">
+    <state x="711" y="167" key="Vcs.Push.Dialog.v2" timestamp="1585432916224">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="711" y="167" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1585432835330" />
+    <state x="711" y="167" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1585432916224" />
     <state x="626" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585432173453">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
