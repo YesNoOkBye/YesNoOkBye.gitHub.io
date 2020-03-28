@@ -46,3 +46,8 @@
 [Урок 22](https://yesnookbye.github.io/lesson_22/ "Домашка 22") -   Верстка 3 блока с ценами
 
 [Урок 23](https://yesnookbye.github.io/lesson_23/ "Домашка 23") -   Добавление анимации к форме
+
+[Урок 24](https://YesNoOkBye.gitHub.io/lesson_24/src/ "Домашка 24") -   Верстка блока с отзывами
+
+
+
