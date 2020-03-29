@@ -49,5 +49,7 @@
 
 [Урок 24](https://YesNoOkBye.gitHub.io/lesson_24/src/ "Домашка 24") -   Верстка блока с отзывами
 
+[Урок 25](https://YesNoOkBye.gitHub.io/lesson_25/ "Домашка 25") -  Видеофон
+
 
 
