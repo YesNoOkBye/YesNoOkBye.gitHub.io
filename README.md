@@ -51,5 +51,7 @@
 
 [Урок 25](https://YesNoOkBye.gitHub.io/lesson_25/ "Домашка 25") -  Видеофон
 
+[Урок 26](https://YesNoOkBye.gitHub.io/lesson_26/ "Домашка 26") -  Адаптация отзывов + форма
+
 
 
