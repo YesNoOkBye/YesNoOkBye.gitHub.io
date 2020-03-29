@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7430bdd8-b6c5-481c-aeba-7957eb988a94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/feedback/nextArrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/feedback/nextArrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/feedback/prevArrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/feedback/prevArrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/feedback/Слой 10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585432082695</updated>
-      <workItem from="1585432084038" duration="7167000" />
+      <workItem from="1585432084038" duration="8081000" />
     </task>
     <task id="LOCAL-00001" summary="HW24">
       <created>1585432154904</created>
@@ -83,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585433523080</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW24">
+      <created>1585439596759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585439596759</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="HW24" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2" timestamp="1585433522911">
+    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2" timestamp="1585439596449">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585433522911" />
+    <state x="363" y="23" width="953" height="971" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585439596449" />
     <state x="421" y="288" width="838" height="475" key="EditFileWatcherDialog" timestamp="1585432669085">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
@@ -154,10 +154,10 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state x="345" y="146" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1585438106581" />
-    <state x="711" y="167" key="Vcs.Push.Dialog.v2" timestamp="1585433527646">
+    <state x="711" y="167" key="Vcs.Push.Dialog.v2" timestamp="1585439600094">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="711" y="167" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1585433527646" />
+    <state x="711" y="167" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1585439600094" />
     <state x="626" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585432173453">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
