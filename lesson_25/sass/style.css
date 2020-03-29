@@ -1,7 +1,6 @@
 .first-section {
   min-height: 100vh;
-  width: 100%;
-  display: table; }
+  width: 100%; }
 
 .main-header {
   display: inline-block;
@@ -19,8 +18,6 @@
   margin: 25px auto; }
 
 .section {
-  background: #676e74;
-  background-size: cover;
   padding-bottom: 50px; }
 
 .fotorama {
