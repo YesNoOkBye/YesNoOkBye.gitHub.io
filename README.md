@@ -53,5 +53,7 @@
 
 [Урок 26](https://YesNoOkBye.gitHub.io/lesson_26/ "Домашка 26") -  Адаптация отзывов + форма
 
+[Урок 27](https://YesNoOkBye.gitHub.io/lesson_27/ "Домашка 27") -  Parallax + rellax
+
 
 
