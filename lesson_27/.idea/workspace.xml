@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69b6c1f5-3449-4a9b-8dbb-9cefeef1c38f" name="Default Changelist" comment="Added HW w27">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lesson_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/figure-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/figure-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/figure-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/imac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-angular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-css3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-html5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-jquery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-less.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-sass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/min/main-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/about.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/base.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/contact.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/features.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/hero.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/pricing.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/team.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/testimonials.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/less/theme-default.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.hound.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.12.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/jquery.scrollTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZqetFNkiTag9meBSh9RDgJsri3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b6c1f5-3449-4a9b-8dbb-9cefeef1c38f" name="Default Changelist" comment="" />
+      <created>1585571263601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585571263601</updated>
+      <workItem from="1585571265936" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added HW w27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW w27" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="23" key="CommitChangelistDialog2" timestamp="1585571312753">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="392" y="23" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585571312753" />
+  </component>
+</project>
