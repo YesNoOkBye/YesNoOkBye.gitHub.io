@@ -1,115 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69b6c1f5-3449-4a9b-8dbb-9cefeef1c38f" name="Default Changelist" comment="Added HW w27">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lesson_27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/feature-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/figure-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/figure-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/figure-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hero-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hero-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hero-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/imac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-angular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-bootstrap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-css3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-html5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-jquery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-less.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-sass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/profile-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/profile-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/profile-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/profile-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/min/main-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/about.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/base.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/contact.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/features.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/hero.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/pricing.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/responsive.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/styles.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/team.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/testimonials.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/less/theme-default.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.hound.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.12.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/jquery.scrollTo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollTo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="69b6c1f5-3449-4a9b-8dbb-9cefeef1c38f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +32,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lesson_27/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -148,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585571263601</updated>
-      <workItem from="1585571265936" duration="167000" />
+      <workItem from="1585571265936" duration="437000" />
     </task>
+    <task id="LOCAL-00001" summary="Added HW w27">
+      <created>1585571518719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585571518720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,9 +73,65 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added HW w27" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="23" key="CommitChangelistDialog2" timestamp="1585571312753">
+    <state x="392" y="23" width="878" height="971" key="CommitChangelistDialog2" timestamp="1585571518493">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="392" y="23" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585571312753" />
+    <state x="392" y="23" width="878" height="971" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1585571518493" />
+    <state width="1659" height="12" key="GridCell.Tab.0.bottom" timestamp="1585571769949">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1585571769949" />
+    <state width="1659" height="12" key="GridCell.Tab.0.center" timestamp="1585571769948">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1585571769948" />
+    <state width="1659" height="12" key="GridCell.Tab.0.left" timestamp="1585571769947">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1585571769947" />
+    <state width="1659" height="12" key="GridCell.Tab.0.right" timestamp="1585571769949">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1585571769949" />
+    <state width="1659" height="12" key="GridCell.Tab.1.bottom" timestamp="1585571769950">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.1.bottom/0.23.1680.971@0.23.1680.971" timestamp="1585571769950" />
+    <state width="1659" height="12" key="GridCell.Tab.1.center" timestamp="1585571769949">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.1.center/0.23.1680.971@0.23.1680.971" timestamp="1585571769949" />
+    <state width="1659" height="12" key="GridCell.Tab.1.left" timestamp="1585571769949">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.1.left/0.23.1680.971@0.23.1680.971" timestamp="1585571769949" />
+    <state width="1659" height="12" key="GridCell.Tab.1.right" timestamp="1585571769950">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.1.right/0.23.1680.971@0.23.1680.971" timestamp="1585571769950" />
+    <state width="1659" height="12" key="GridCell.Tab.2.bottom" timestamp="1585571769951">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.2.bottom/0.23.1680.971@0.23.1680.971" timestamp="1585571769951" />
+    <state width="1659" height="12" key="GridCell.Tab.2.center" timestamp="1585571769950">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.2.center/0.23.1680.971@0.23.1680.971" timestamp="1585571769950" />
+    <state width="1659" height="12" key="GridCell.Tab.2.left" timestamp="1585571769950">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.2.left/0.23.1680.971@0.23.1680.971" timestamp="1585571769950" />
+    <state width="1659" height="12" key="GridCell.Tab.2.right" timestamp="1585571769950">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1659" height="12" key="GridCell.Tab.2.right/0.23.1680.971@0.23.1680.971" timestamp="1585571769950" />
+    <state x="440" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585571521810">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="440" y="244" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1585571521810" />
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1585571596851">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.23.1680.971@0.23.1680.971" timestamp="1585571596851" />
   </component>
 </project>
