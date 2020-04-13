@@ -96,62 +96,55 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     border-radius: 7px;
     margin-bottom: 30px; }
-    .restaurants .cards .card .card-header {
+    .restaurants .cards .card-header {
       margin: 20px 24px;
       display: flex;
       justify-content: space-between;
       align-items: center; }
-      .restaurants .cards .card .card-header .card-heading {
-        font-style: normal;
-        font-weight: bold;
-        font-size: 24px;
-        line-height: 32px;
-        color: #000000; }
-      .restaurants .cards .card .card-header .card-tag {
-        background: #262626;
-        border-radius: 2px;
-        height: 22px;
-        color: #FFFFFF;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 12px;
-        line-height: 20px;
-        padding: 1px 8px; }
-    .restaurants .cards .card .card-bottom {
+    .restaurants .cards .card-heading {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 32px;
+      color: #000000; }
+    .restaurants .cards .card-tag {
+      background: #262626;
+      border-radius: 2px;
+      height: 22px;
+      color: #FFFFFF;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 20px;
+      padding: 1px 8px; }
+    .restaurants .cards .card-bottom {
       display: flex;
       align-content: center;
       margin: 10px 24px 34px 24px; }
-      .restaurants .cards .card .card-bottom .rating {
-        color: #FFC107;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 18px;
-        line-height: 32px;
-        padding-right: 26px; }
-      .restaurants .cards .card .card-bottom .rating-star {
-        margin-right: 7.5px; }
-      .restaurants .cards .card .card-bottom .price {
-        color: #8C8C8C;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 18px;
-        line-height: 32px;
-        padding-right: 10px;
-        padding-left: 7.5px; }
-        .restaurants .cards .card .card-bottom .price:after {
-          content: "";
-          width: 5px;
-          height: 5px;
-          background: #8C8C8C;
-          border-radius: 50%;
-          display: inline-block;
-          vertical-align: middle;
-          margin-left: 10px; }
-      .restaurants .cards .card .card-bottom .category {
-        color: #8C8C8C;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 18px;
-        line-height: 32px; }
+    .restaurants .cards .card .rating .rating-star {
+      margin-right: 7.5px; }
+    .restaurants .cards .card .rating .price {
+      color: #8C8C8C;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 32px;
+      padding-right: 10px;
+      padding-left: 7.5px; }
+      .restaurants .cards .card .rating .price:after {
+        content: "";
+        width: 5px;
+        height: 5px;
+        background: #8C8C8C;
+        border-radius: 50%;
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 10px; }
+    .restaurants .cards .card .rating .category {
+      color: #8C8C8C;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 32px; }
 
 /*# sourceMappingURL=style.css.map */
