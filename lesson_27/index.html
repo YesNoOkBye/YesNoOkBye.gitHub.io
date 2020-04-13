@@ -57,11 +57,11 @@
             </nav><!--//main-nav-->                     
         </div><!--//container-->
     </header><!--//header-->
-
+    
     <div id="hero" class="hero-section">
-
-        <div id="hero-carousel" class="hero-carousel carousel carousel-fade slide" data-ride="carousel" data-interval="10000">
-
+        
+        <div id="hero-carousel" class="hero-carousel carousel carousel-fade slide" data-ride="carousel" data-interval="3000">
+            
             <div class="figure-holder-wrapper">
         		<div class="container">
             		<div class="row">
@@ -71,49 +71,49 @@
             		</div><!--//row-->
         		</div><!--//container-->
     		</div><!--//figure-holder-wrapper-->
-
+            
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
 				<li class="active" data-slide-to="0" data-target="#hero-carousel"></li>
 				<li data-slide-to="1" data-target="#hero-carousel"></li>
 				<li data-slide-to="2" data-target="#hero-carousel"></li>
 			</ol>
-
+			
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner">
-
+    			
 				<div class="item item-1 active parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-1.jpg">
 					<div class="item-content container">
     					<div class="item-content-inner">
-
+    				        
 				            <h2 class="heading">AppKit is the perfect front-end <br class="hidden-xs">template for app developers</h2>
 				            <p class="intro">It helps developers to build beautiful and user-friendly web apps quickly and easily!</p>
 				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Get Started</a>
-
+    				        
     					</div><!--//item-content-inner-->
 					</div><!--//item-content-->
 				</div><!--//item-->
-
+				
 				<div class="item item-2 parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-2.jpg">
 					<div class="item-content container">
 						<div class="item-content-inner">
-
+    				        
 				            <h2 class="heading">Angular Lover?</h2>
 				            <p class="intro">AppKit also comes with an Angular JS version. It empowers developers to create UI components with very little code. Feeding data into AppKit directives is quick and easy.</p>
 				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Find out more</a>
-
+    				        
     					</div><!--//item-content-inner-->
 					</div>
 				</div><!--//item-->
-
+				
 				<div class="item item-3 parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-3.jpg">
 					<div class="item-content container">
 						<div class="item-content-inner">
-
+    				        
 				            <h2 class="heading">Ready to build outstanding apps?</h2>
 				            <p class="intro">Get AppKit today and it will supercharge your development. It's a must-have for any developers who are serious about building great products!</p>
 				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Try it now</a>
-
+    				        
     					</div><!--//item-content-inner-->
 					</div>
 				</div><!--//item-->
@@ -434,7 +434,10 @@
     <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>     
     <script type="text/javascript" src="assets/js/main.js"></script>
     <script src="assets/js/parallax.min.js"></script>
-       
+    <script src="assets/js/rellax.min.js"></script>
+    <script>
+        var rellax = new Rellax('.rellax');
+    </script>
 </body>
 </html> 
 
