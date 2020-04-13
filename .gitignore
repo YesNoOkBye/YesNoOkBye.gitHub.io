@@ -116,5 +116,4 @@ fabric.properties
 # Markdown Navigator plugin
 .idea/**/markdown-navigator.xml
 .idea/**/markdown-navigator/
-
-# End of https://www.gitignore.io/api/macos,webstorm
+/.idea/
