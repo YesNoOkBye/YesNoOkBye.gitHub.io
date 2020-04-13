@@ -2,4 +2,4 @@
 ===================================
 
 
-[Интенсив](https://YesNoOkBye.gitHub.io/DeliveryFood/) Интенсив Delivery Food
+[Интенсив](https://YesNoOkBye.gitHub.io/DeliveryFood/) - Delivery Food
