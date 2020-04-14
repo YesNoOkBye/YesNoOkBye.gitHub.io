@@ -346,6 +346,8 @@ body {
     margin: 0;
     flex-direction: column; }
 
+  .restaurants .cards .card {
+    flex-basis: 100%; }
   .restaurants .section-heading {
     align-items: center;
     justify-content: center;
@@ -353,12 +355,14 @@ body {
 
   .input-search {
     margin: auto; }
-    .input-search .cards {
-      justify-content: center; }
-      .input-search .cards .card {
-        flex-basis: 100%; }
-        .input-search .cards .card-img {
-          width: 100%; } }
+
+  .cards {
+    justify-content: center; }
+
+  .card {
+    flex-basis: 100%; }
+    .card-img {
+      width: 100%; } }
 @media (max-width: 362px) {
   .header {
     justify-content: center; } }

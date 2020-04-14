@@ -357,20 +357,22 @@ body
     margin: 0
 
     flex-direction: column
-
   .restaurants
+    .cards
+      .card
+        flex-basis: 100%
     .section-heading
       align-items: center
       justify-content: center
       flex-wrap: wrap
   .input-search
     margin: auto
-    .cards
+  .cards
       justify-content: center
-      .card
-        flex-basis: 100%
-        &-img
-          width: 100%
+  .card
+    flex-basis: 100%
+    &-img
+      width: 100%
 
 @media (max-width: 362px)
   .header
