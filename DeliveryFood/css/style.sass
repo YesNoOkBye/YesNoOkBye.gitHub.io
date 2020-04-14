@@ -29,7 +29,7 @@ body
    
 .input-address
   height: 40px
-  width: 690px
+  flex: 0.8
   background-image: url("../img/home.svg")
 
 .input-search
@@ -67,7 +67,9 @@ body
     vertical-align: middle
   &-text
     vertical-align: middle
-  
+
+.main
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0) 1.04%, #F5F5F5 100%)
 
 .promo
   box-shadow: 0 7px 12px rgba(158, 158, 163, 0.1)
@@ -92,6 +94,7 @@ body
     width: 538px
 
 .restaurants
+
   .section-heading
     padding-top: 56px
     display: flex
@@ -103,11 +106,12 @@ body
     flex-wrap: wrap
     justify-content: space-between
     .card
-      width: 384px
+      flex-basis: 30%
       background: #FFFFFF
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05)
       border-radius: 7px
       margin-bottom: 30px
+      overflow: hidden
       &-header
         margin: 20px 24px
         display: flex
@@ -134,43 +138,184 @@ body
         align-content: center
         margin: 10px 24px 34px 24px
       .rating
-          color: #FFC107
-          font-style: normal
-          font-weight: bold
-          font-size: 18px
-          line-height: 32px
-          padding-right: 26px
+        color: #FFC107
+        font-style: normal
+        font-weight: bold
+        font-size: 18px
+        line-height: 32px
+        padding-right: 26px
         .rating-star
           margin-right: 7.5px
+      .price
+        color: #8C8C8C
+        font-style: normal
+        font-weight: normal
+        font-size: 18px
+        line-height: 32px
+        padding-right: 10px
+        padding-left: 7.5px
+        &:after
+          content: ""
+          width: 5px
+          height: 5px
+          background: #8C8C8C
+          border-radius: 50%
+          display: inline-block
+          vertical-align: middle
+          margin-left: 10px
+      .category
+        color: #8C8C8C
+        font-style: normal
+        font-weight: normal
+        font-size: 18px
+        line-height: 32px
+
+
+.footer
+  &-items
+
+    display: flex
+    justify-content: space-between
+    align-items: center
+    padding: 60px 0
+
+  &-links
+    margin-right: auto
+    margin-left: 35px
+
+  &-link
+    color: #595959
+    font-style: normal
+    font-weight: normal
+    font-size: 18px
+    line-height: 21px
+    text-decoration: none
+    &:not(:last-child)
+      margin-right: 15px
+
+  &-social
+    display: flex
+    align-items: center
+  .social-icon
+    &:not(:last-child)
+      margin-right: 21px
+
+@media (max-width: 1366px)
+  .container
+    max-width: 960px
+  .promo
+    background: #FFF1B8 url("../img/promo-image.jpeg")  no-repeat top -113px right -263px/800px
+
+@media (max-width: 992px)
+  .container
+    max-width: 750px
+
+  .promo
+    background: #FFF1B8 url("../img/promo-image.jpeg")  no-repeat top -15px right -263px/600px
+    border-radius: 10px
+    padding: 48px 50px
+
+    &-title
+      font-size: 36px
+
+    &-text
+      font-size: 18px
+      width: 60%
+
+
+  .restaurants
+    .cards
+      .card
+        flex-basis: 49%
+.footer-link
+  font-size: 15px
+
+@media (max-width: 768px)
+  .container
+    max-width: 560px
+
+  .header
+    flex-wrap: wrap
+    .input-address
+      order: 3
+      margin-top: 20px
+      flex-basis: 100%
+
+  .promo
+    background: #FFF1B8 url("../img/promo-image.jpeg")  no-repeat top -15px right -150px/400px
+    border-radius: 10px
+    padding: 28px 40px
+  .promo-title
+    font-size: 26px
+    line-height: 1.5
+  .promo-text
+    font-size: 16px
+    line-height: 1.5
+
+  .card-bottom
+    flex-wrap: wrap
+  .rating
+    flex-basis: 100%
+
+  .restaurants
+    .cards
+      .card
         .price
-          color: #8C8C8C
-          font-style: normal
-          font-weight: normal
-          font-size: 18px
-          line-height: 32px
-          padding-right: 10px
-          padding-left: 7.5px
-          &:after
-            content: ""
-            width: 5px
-            height: 5px
-            background: #8C8C8C
-            border-radius: 50%
-            display: inline-block
-            vertical-align: middle
-            margin-left: 10px
+          padding-left: 0
 
-        .category
-          color: #8C8C8C
-          font-style: normal
-          font-weight: normal
-          font-size: 18px
-          line-height: 32px
-          
 
-  
-  
-  
-  
-  
-  
+@media (max-width: 578px)
+  .container
+    max-width: 90%
+  body
+    padding-top: 20px
+  .header
+    flex-wrap: wrap
+    justify-content: center
+    .buttons
+      margin-top: 10px
+    .input-address
+      order: 3
+      margin-top: 20px
+      flex-basis: 100%
+  .promo
+    background: #FFF1B8
+    border-radius: 5px
+    padding: 8px 20px
+  .promo-title
+    font-size: 24px
+    line-height: 1.4
+  .promo-text
+    font-size: 14px
+    line-height: 1.4
+    width: 100%
+    flex-wrap: wrap
+
+  .footer
+    .footer-items
+      padding: 30px 0
+      justify-content: center
+      flex-wrap: wrap
+      .footer-logo
+        order: 1
+      .footer-links
+        order: 2
+        flex-basis: 60%
+        margin: auto
+
+      .footer-social
+        margin-top: 10px
+        order: 3
+
+  .footer-link:not(:last-child)
+    margin: 0
+
+  .restaurants
+    .section-heading
+      justify-content: center
+      flex-wrap: wrap
+    .cards
+      .card
+        flex-basis: 100%
+
+
