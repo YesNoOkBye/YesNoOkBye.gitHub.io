@@ -347,14 +347,18 @@ body {
     flex-direction: column; }
 
   .restaurants .section-heading {
-    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap; }
-  .restaurants .cards {
-    justify-content: center; }
-    .restaurants .cards .card {
-      flex-basis: 100%; }
-      .restaurants .cards .card-img {
-        width: 100%; } }
+
+  .input-search {
+    margin: auto; }
+    .input-search .cards {
+      justify-content: center; }
+      .input-search .cards .card {
+        flex-basis: 100%; }
+        .input-search .cards .card-img {
+          width: 100%; } }
 @media (max-width: 362px) {
   .header {
     justify-content: center; } }
