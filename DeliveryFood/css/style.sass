@@ -35,6 +35,7 @@ body
 .input-search
   background-image: url("../img/icon-search.svg")
   width: 306px
+  margin-left: auto
 
 
 
@@ -93,82 +94,123 @@ body
     color: #302C34
     width: 538px
 
-.restaurants
 
-  .section-heading
-    padding-top: 56px
-    display: flex
-    justify-content: space-between
-    align-items: center
-    margin-bottom: 44px
-  .cards
-    display: flex
-    flex-wrap: wrap
-    justify-content: space-between
-    .card
-      flex-basis: 30%
-      background: #FFFFFF
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05)
-      border-radius: 7px
-      margin-bottom: 30px
-      overflow: hidden
-      &-header
-        margin: 20px 24px
-        display: flex
-        justify-content: space-between
-        align-items: center
-      &-heading
-          font-style: normal
-          font-weight: bold
-          font-size: 24px
-          line-height: 32px
-          color: #000000
-      &-tag
-          background: #262626
-          border-radius: 2px
-          height: 22px
-          color: #FFFFFF
-          font-style: normal
-          font-weight: normal
-          font-size: 12px
-          line-height: 20px
-          padding: 1px 8px
-      &-bottom
-        display: flex
-        align-content: center
-        margin: 10px 24px 34px 24px
-      .rating
-        color: #FFC107
-        font-style: normal
-        font-weight: bold
-        font-size: 18px
-        line-height: 32px
-        padding-right: 26px
-        .rating-star
-          margin-right: 7.5px
-      .price
-        color: #8C8C8C
-        font-style: normal
-        font-weight: normal
-        font-size: 18px
-        line-height: 32px
-        padding-right: 10px
-        padding-left: 7.5px
-        &:after
-          content: ""
-          width: 5px
-          height: 5px
-          background: #8C8C8C
-          border-radius: 50%
-          display: inline-block
-          vertical-align: middle
-          margin-left: 10px
-      .category
-        color: #8C8C8C
-        font-style: normal
-        font-weight: normal
-        font-size: 18px
-        line-height: 32px
+.section-heading
+  padding-top: 56px
+  display: flex
+  align-items: center
+  margin-bottom: 44px
+  .tanuki-title
+    font-style: normal
+    font-weight: bold
+    font-size: 36px
+    line-height: 42px
+    padding-right: 30px
+  .heading-rating
+    padding: 0
+    margin: 0
+
+.cards
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+.card
+  flex-basis: 30%
+  background: #FFFFFF
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05)
+  border-radius: 7px
+  margin-bottom: 30px
+  align-items: center
+  overflow: hidden
+  text-decoration: none
+.card-header
+  margin: 20px 24px
+  display: flex
+  justify-content: space-between
+  align-items: center
+.card-heading
+    font-style: normal
+    font-weight: bold
+    font-size: 24px
+    line-height: 32px
+    color: #000000
+.card-info
+  flex-wrap: wrap
+  justify-content: space-between
+  .card-heading-reg
+    font-style: normal
+    font-weight: normal
+    font-size: 24px
+    line-height: 27px
+  .ingredients
+    margin-bottom: 10px
+    font-style: normal
+    font-weight: normal
+    font-size: 18px
+    line-height: 18px
+    height: 96px
+  .tag-price
+    font-style: normal
+    font-weight: bold
+    font-size: 20px
+    line-height: 32px
+.card-tag
+    background: #262626
+    border-radius: 2px
+    height: 22px
+    color: #FFFFFF
+    font-style: normal
+    font-weight: normal
+    font-size: 12px
+    line-height: 20px
+    padding: 1px 8px
+.card-image-wrap
+  display: flex
+  justify-content: center
+  align-items: center
+
+
+.card-bottom
+  display: flex
+  align-content: center
+  margin: 10px 24px 34px 24px
+  .rating
+    color: #FFC107
+    font-style: normal
+    font-weight: bold
+    font-size: 18px
+    line-height: 32px
+    padding-right: 26px
+    .rating-star
+      margin-right: 7.5px
+  .price
+    color: #8C8C8C
+    font-style: normal
+    font-weight: normal
+    font-size: 18px
+    line-height: 32px
+    padding-right: 10px
+    padding-left: 7.5px
+    &:after
+      content: ""
+      width: 5px
+      height: 5px
+      background: #8C8C8C
+      border-radius: 50%
+      display: inline-block
+      vertical-align: middle
+      margin-left: 10px
+  .category
+    color: #8C8C8C
+    font-style: normal
+    font-weight: normal
+    font-size: 18px
+    line-height: 32px
+  .tanuki-link
+    color: black
+    text-decoration: none
+    &:visited
+      color: black
 .footer
   &-items
 
@@ -254,6 +296,11 @@ body
     flex-wrap: wrap
   .rating
     flex-basis: 100%
+  .heading-rating
+    display: flex
+    .tanuki-rating
+      display: flex
+      flex-basis: 20%
 
   .restaurants
     .cards
