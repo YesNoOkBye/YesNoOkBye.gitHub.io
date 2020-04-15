@@ -226,8 +226,9 @@ body {
 .footer-social .icon-social {
   width: 30px;
   height: 30px; }
-  .footer-social .icon-social:not(:last-child) {
-    margin-right: 7px; }
+
+.footer-social .icon-social:not(:last-child) {
+  margin-right: 7px; }
 
 .modal {
   display: none;

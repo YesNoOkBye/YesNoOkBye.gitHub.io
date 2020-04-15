@@ -1,7 +1,7 @@
 const cartButton = document.querySelector("#cart-button");
 const closeButton = document.querySelector(".close");
 
-const modal = document.querySelector(".modal")
+const modal = document.querySelector(".modal");
 
 cartButton.addEventListener("click", modalOpen);
 closeButton.addEventListener("click", modalOpen);
