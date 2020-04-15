@@ -12,4 +12,3 @@ function modalOpen() {
     modal.classList.toggle("modal-open");
 }
 
-

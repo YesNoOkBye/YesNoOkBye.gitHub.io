@@ -1,6 +1,6 @@
 {
   "shadow": "inner",
-
+  "esversion": 6,
   "camelcase": true,
   "eqeqeq": true,
   "eqnull": true,
