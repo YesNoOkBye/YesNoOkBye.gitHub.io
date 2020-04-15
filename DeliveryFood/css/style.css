@@ -223,12 +223,11 @@ body {
   text-decoration: none; }
   .footer-link:not(:last-child) {
     margin-right: 15px; }
-.footer-social {
-  display: flex;
-  align-items: center; }
-
-.social-icon:not(:last-child) {
-  margin-right: 21px; }
+.footer-social .icon-social {
+  width: 30px;
+  height: 30px; }
+  .footer-social .icon-social:not(:last-child) {
+    margin-right: 7px; }
 
 .modal {
   display: none;

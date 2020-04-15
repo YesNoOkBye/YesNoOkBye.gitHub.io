@@ -12,4 +12,4 @@ function modalOpen() {
     modal.classList.toggle("modal-open");
 }
 
-new WOW().init();
+
