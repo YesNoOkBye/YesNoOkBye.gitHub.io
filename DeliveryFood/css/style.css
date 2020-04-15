@@ -226,7 +226,8 @@ body {
 .footer-social {
   display: flex;
   align-items: center; }
-.footer .social-icon:not(:last-child) {
+
+.social-icon:not(:last-child) {
   margin-right: 21px; }
 
 .modal {
