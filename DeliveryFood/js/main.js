@@ -1,7 +1,7 @@
-
-
 const cartButton = document.querySelector("#cart-button");
-const closeButton = document.querySelector("#modal-window");
+const closeButton = document.querySelector(".close");
+
+const modal = document.querySelector(".modal")
 
 cartButton.addEventListener("click", modalOpen);
 closeButton.addEventListener("click", modalOpen);
@@ -9,7 +9,7 @@ closeButton.addEventListener("click", modalOpen);
 
 
 function modalOpen() {
-    closeButton.classList.toggle("modal-open");
+    modal.classList.toggle("modal-open");
 }
 
 new WOW().init();
