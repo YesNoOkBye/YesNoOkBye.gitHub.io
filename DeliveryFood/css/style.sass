@@ -1,4 +1,5 @@
 //General styles
+
 *
   box-sizing: border-box
 
@@ -416,6 +417,17 @@ body
       .card
         .price
           padding-left: 0
+  .footer-logo
+    margin-right: 20%
+    order: 2
+  .footer-links
+    order: 1
+  .footer-social
+    order: 3
+
+  .footer-links
+    display: flex
+    flex-direction: column
 
 
 @media (max-width: 578px)
@@ -452,20 +464,20 @@ body
       justify-content: center
       flex-wrap: wrap
       .footer-logo
+        margin: 0
         order: 1
-      .footer-links
-        margin: 15px auto
-        display: flex
-        flex-direction: column
-        align-items: center
-        order: 2
-      .footer-social
-        margin-top: 10px
-        order: 3
+  .footer-links
+    margin: 15px auto
+    display: flex
+    flex-direction: column
+    align-items: center
+    order: 2
+  .footer-social
+    margin-top: 10px
+    order: 3
   .footer-link:not(:last-child)
     margin: 0
 
-    flex-direction: column
   .restaurants
     .cards
       .card
@@ -486,3 +498,4 @@ body
 @media (max-width: 362px)
   .header
     justify-content: center
+
