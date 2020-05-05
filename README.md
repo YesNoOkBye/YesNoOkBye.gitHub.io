@@ -2,7 +2,7 @@
 ===================================
 
 
-[Интенсив](https://YesNoOkBye.gitHub.io/DeliveryFood/) - Delivery Food
+[Интенсив](https://YesNoOkBye.gitHub.io/delivery-food/) - Delivery Food
 
 [Todo App](https://YesNoOkBye.gitHub.io/TodoApp/) - Todo app
 
