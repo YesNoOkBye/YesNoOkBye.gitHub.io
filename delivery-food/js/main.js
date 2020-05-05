@@ -1,7 +1,6 @@
 const cartButton = document.querySelector("#cart-button");
 const modal = document.querySelector(".modal");
 const close = document.querySelector(".close");
-
 cartButton.addEventListener("click", toggleModal);
 close.addEventListener("click", toggleModal);
 
@@ -37,7 +36,6 @@ function authorized() {
     userName.style.display = "";
     buttonOut.style.display = "";
     buttonOut.removeEventListener("click", logOut);
-
     checkAuth();
   }
 
@@ -56,7 +54,7 @@ function notAuthorized() {
   function logIn(event) {
     event.preventDefault();
 
-    if (loginInput.value) {
+    if (loginInput.value.trim()) {
       login = loginInput.value;
       localStorage.setItem("gloDelivery", login);
       toggleModalAuth();
